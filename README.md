@@ -1,2 +1,2 @@
-# blueme
-Simple tool to fix mp3 playback issues on Blue&amp;me units
+# Blueme
+Simple tool to fix mp3 playback issues on Blue&amp;me units. Credits to [MP3-Optimizer-for-Blue-Me](https://github.com/till-f/MP3-Optimizer-for-Blue-Me) which made [Blue&amp;me limitations](https://github.com/till-f/MP3-Optimizer-for-Blue-Me#remark-about-blueme-limitations) public. Here we're simply converting each track to a **128kbps mp3** with a maximum of **30 alphanumeric** characters filename and **no tags**.  
